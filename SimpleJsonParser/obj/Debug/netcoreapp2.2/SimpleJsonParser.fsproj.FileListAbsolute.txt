@@ -1,0 +1,10 @@
+C:\Users\apura\Desktop\VisualStudio\SimpleJsonParser\SimpleJsonParser\bin\Debug\netcoreapp2.2\SimpleJsonParser.deps.json
+C:\Users\apura\Desktop\VisualStudio\SimpleJsonParser\SimpleJsonParser\bin\Debug\netcoreapp2.2\SimpleJsonParser.runtimeconfig.json
+C:\Users\apura\Desktop\VisualStudio\SimpleJsonParser\SimpleJsonParser\bin\Debug\netcoreapp2.2\SimpleJsonParser.runtimeconfig.dev.json
+C:\Users\apura\Desktop\VisualStudio\SimpleJsonParser\SimpleJsonParser\bin\Debug\netcoreapp2.2\SimpleJsonParser.dll
+C:\Users\apura\Desktop\VisualStudio\SimpleJsonParser\SimpleJsonParser\bin\Debug\netcoreapp2.2\SimpleJsonParser.pdb
+C:\Users\apura\Desktop\VisualStudio\SimpleJsonParser\SimpleJsonParser\obj\Debug\netcoreapp2.2\SimpleJsonParser.fsprojAssemblyReference.cache
+C:\Users\apura\Desktop\VisualStudio\SimpleJsonParser\SimpleJsonParser\obj\Debug\netcoreapp2.2\SimpleJsonParser.AssemblyInfoInputs.cache
+C:\Users\apura\Desktop\VisualStudio\SimpleJsonParser\SimpleJsonParser\obj\Debug\netcoreapp2.2\SimpleJsonParser.AssemblyInfo.fs
+C:\Users\apura\Desktop\VisualStudio\SimpleJsonParser\SimpleJsonParser\obj\Debug\netcoreapp2.2\SimpleJsonParser.dll
+C:\Users\apura\Desktop\VisualStudio\SimpleJsonParser\SimpleJsonParser\obj\Debug\netcoreapp2.2\SimpleJsonParser.pdb
